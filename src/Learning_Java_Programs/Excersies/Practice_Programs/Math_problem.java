@@ -1,5 +1,4 @@
-package org.example;
-import java.lang.Math;
+package Practice_Programs;
 
 public class Math_problem {
     public static void main(String[] args) {
