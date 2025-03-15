@@ -17,6 +17,7 @@ public class Task006_Even_odd_Number {
 
             System.out.println("The Entered number is odd number : " + num);
         }
+        System.out.println();
 
     }
 }
