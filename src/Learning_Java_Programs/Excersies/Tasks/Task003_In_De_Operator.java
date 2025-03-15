@@ -1,9 +1,9 @@
 package Tasks;
 
-public class Task002_In_De_Operator {
+public class Task003_In_De_Operator {
     public static void main(String[] args) {
+
         int  a = 11;
-        int  b = 12;
         // Increment operator
         System.out.print("After Increment value is :  "   );
         System.out.println(++a + a++ + a++);
@@ -11,6 +11,9 @@ public class Task002_In_De_Operator {
         // a++ - > B -> ExpB = 12 -> a=13
         // a++ - > C -> ExpC = 13 -> a=14
         System.out.println("After Increment a value is :  " + a);
+
+
+        int  b = 12;
         // Decrement operator
         System.out.print("After Decrement value is :  " );
         System.out.println(--b + b++ + b--);

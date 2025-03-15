@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.Scanner;
+package Practice_Programs;
 
 public class CLI_options {
     public static void main(String[] args) {

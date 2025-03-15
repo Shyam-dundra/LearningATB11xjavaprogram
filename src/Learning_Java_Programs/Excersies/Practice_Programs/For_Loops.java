@@ -1,4 +1,4 @@
-package org.example;
+package Practice_Programs;
 
 public class For_Loops {
     public static void main(String[] args) {

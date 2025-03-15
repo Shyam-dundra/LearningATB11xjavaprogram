@@ -1,6 +1,4 @@
-package org.example;
-
-import java.lang.reflect.Array;
+package Practice_Programs;
 
 public class traiangle {
     public static void main(String[] args) {

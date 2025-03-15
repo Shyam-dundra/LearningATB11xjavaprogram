@@ -1,5 +1,4 @@
-package org.example;
-import java.util.Scanner;
+package Practice_Programs;
 
 public class increment_decrement_001 {
     public static void main(String[] args) {
