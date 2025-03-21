@@ -1,6 +1,6 @@
 package ex_02_Constants_Literals;
 
-public class ex_01_Constants_Literals {
+public class Lab001_Constants_Literals {
     public static void main(String[] args) {
         final int  a = 10; // int a value cannot be changed because of final keyword
         short b = 12 ;
