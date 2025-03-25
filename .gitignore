@@ -7,3 +7,8 @@
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+
+
+!/out/
+!/Learning_Java_Programs.iml
+

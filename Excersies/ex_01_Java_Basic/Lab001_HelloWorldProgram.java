@@ -3,7 +3,7 @@ package ex_01_Java_Basic;
 public class Lab001_HelloWorldProgram {
     public static void main(String[] args) {
 //        System.out.println("Hello world am started learning core JAVA");
-
+// dnsjkl
 //        star pattern program
         int n = 6;
         for (int i = 1; i  <=n; i++) {
