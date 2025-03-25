@@ -9,6 +9,9 @@
 Thumbs.db
 
 
-!/out/
+# Ignore the 'out' directory
+/out/
+
+# Allow the '.iml' file to be tracked
 !/Learning_Java_Programs.iml
 
