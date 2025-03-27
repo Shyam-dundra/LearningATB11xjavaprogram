@@ -1,4 +1,4 @@
-package ex_Strings;
+package ex_03_Strings;
 
 public class ex_07_Sb_replace {
     public static void main(String[] args) {
