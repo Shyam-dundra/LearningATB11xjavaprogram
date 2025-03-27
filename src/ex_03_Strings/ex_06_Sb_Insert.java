@@ -1,4 +1,4 @@
-package ex_Strings;
+package ex_03_Strings;
 
 public class ex_06_Sb_Insert {
     public static void main(String[] args) {

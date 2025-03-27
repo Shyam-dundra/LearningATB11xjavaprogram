@@ -1,6 +1,4 @@
-package ex_Strings;
-
-import javax.sound.midi.Soundbank;
+package ex_03_Strings;
 
 public class ex_03_String_comparsions {
     public static void main(String[] args) {

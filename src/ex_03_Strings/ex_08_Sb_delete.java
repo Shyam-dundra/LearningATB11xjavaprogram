@@ -1,4 +1,4 @@
-package ex_Strings;
+package ex_03_Strings;
 
 public class ex_08_Sb_delete {
     public static void main(String[] args) {
