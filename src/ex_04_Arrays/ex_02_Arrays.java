@@ -1,6 +1,6 @@
 package ex_04_Arrays;
 
-import java.lang.reflect.Array;
+
 import java.util.Arrays;
 
 public class ex_02_Arrays {
