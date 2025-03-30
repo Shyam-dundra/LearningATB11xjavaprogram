@@ -1,6 +1,5 @@
 package Tasks;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class Task008_Fibonacci_series {
