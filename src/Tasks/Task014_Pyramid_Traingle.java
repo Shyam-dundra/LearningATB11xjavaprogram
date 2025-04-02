@@ -1,8 +1,9 @@
 package Tasks;
 
 public class Task014_Pyramid_Traingle {
-    public static void main(String[] args) {
+    public static void  main(String[] args) {
         Pyramid_Triangle();
+
     }
     static void Pyramid_Triangle(){
         int n = 5;
