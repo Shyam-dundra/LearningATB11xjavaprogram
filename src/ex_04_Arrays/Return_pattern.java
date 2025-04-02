@@ -7,15 +7,18 @@ public class Return_pattern {
 
         // Square_Pattern();
 
-        // right_triangle_reverse();
+//         right_triangle_reverse();
 
-        // right_triangle();
-        // right_triangle_Number(); 
-        // right_triangle_Same_Number();
-        // right_triangle_01();
-        // right_triangle_02();
+//        right_triangle();
+     // right_triangle_Number();
+       // right_triangle_Same_Number();
+//         right_triangle_01();
+//         right_triangle_02();
 
         right_triangle_pyramid();
+//        down_triangle();
+//        Max_num();
+
     }
 
     public static void Square_Pattern() {
@@ -90,6 +93,38 @@ public class Return_pattern {
             System.out.println();
         }
     }
+    static void down_triangle(){
+        int n= 4;
+        for (int i = n; i >=1; i--) {
+            for (int j = n; j>i; j--) {
 
+                System.out.print(" ");
+            }
+            for (int j = i; j>=1; j--) {
+                System.out.print(j);
+
+            }
+            System.out.println();
+
+
+        }
+    }
+    public static void Max_num(){
+        int [] arr ={10, 25,46,43,67,87};
+        int max = arr[0];
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] > max) {
+                max = arr[i];
+            }
+        }
+        System.out.println(max);
+
+        for (int num : arr){
+            if (num > max ){
+                max = num;
+            }
+        }
+        System.out.println(max);
+    }
 
 }

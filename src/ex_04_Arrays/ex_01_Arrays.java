@@ -9,5 +9,5 @@ public class ex_01_Arrays {
         System.out.println(arr[3]);
         System.out.println("length of array : " + arr.length);
     }
-    // lsgjdas
+
 }
