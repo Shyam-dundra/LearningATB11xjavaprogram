@@ -1,4 +1,4 @@
-package ex_06_Oops_polymorphism.MethodOverloading;
+package ex_07_Oops_polymorphism.MethodOverloading;
 
 public class ex_02_Overloading {
     public static void main(String[] args) {
