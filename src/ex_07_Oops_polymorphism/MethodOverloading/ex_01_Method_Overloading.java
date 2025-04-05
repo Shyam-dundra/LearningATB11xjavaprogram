@@ -7,6 +7,7 @@ public class ex_01_Method_Overloading {
 
         m1.add(6,7);
         m1.add(4,5,8);
+        m1.add("Shyam", "Krishna");
         
 
     }
@@ -15,6 +16,10 @@ public class ex_01_Method_Overloading {
 class Mathoperations{
          
     void add (int a, int b) {
+
+        System.out.println(a+b);
+    }
+    void add (String a, String b) {
 
         System.out.println(a+b);
     }
