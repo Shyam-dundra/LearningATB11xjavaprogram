@@ -7,17 +7,20 @@ public class ex_01_Oops_polymorphism {
         
         father f1 = new father();
         f1.home();
+
     }
 
 }
 class father{
     void home() {
+    
         System.out.println("BHK2");
     }
 }
 class Son extends father{
     @Override
     void home() {
+        
         System.out.println("BHK3");
     }
 }
