@@ -10,17 +10,12 @@ public class Task012_SecondLargest_Array {
             if (array[i] > max) {
                 SE_max = max;
                 max = array[i];
-
             } else if (array[i] > SE_max && array[i] != max) {
                 SE_max = array[i];
-
             }
-
         }
         System.out.println("First Max_number" + max);
         System.out.println("Second Max_number" + SE_max);
-
-
     }
 
 }
