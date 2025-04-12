@@ -5,7 +5,7 @@ import Practice_Programs.star_pattern;
 public class Return_pattern {
     public static void main(String[] args) {
 
-        Square_Pattern();
+//        Square_Pattern();
 
 //         right_triangle_reverse();
 
@@ -15,7 +15,7 @@ public class Return_pattern {
 //         right_triangle_01();
 //         right_triangle_02();
 
-        // right_triangle_pyramid();
+         right_triangle_pyramid();
 //        down_triangle();
 //        Max_num();
 
