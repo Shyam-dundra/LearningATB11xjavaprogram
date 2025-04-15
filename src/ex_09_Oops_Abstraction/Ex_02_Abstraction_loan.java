@@ -19,7 +19,7 @@ abstract class Father {
     }
 } 
 class child extends Father{
-
+    
     @Override
     void loan50K(){
 
