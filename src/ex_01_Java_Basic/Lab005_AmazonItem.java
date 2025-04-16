@@ -19,6 +19,7 @@ public class Lab005_AmazonItem {
         System.out.println(rating);
         System.out.println(seller);
         System.out.println(prime);
+        System.out.println(description);
 
     }
 }

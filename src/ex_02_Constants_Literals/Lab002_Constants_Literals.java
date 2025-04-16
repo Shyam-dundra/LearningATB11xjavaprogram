@@ -12,5 +12,10 @@ public class Lab002_Constants_Literals {
 
 
         System.out.println(num);
+        System.out.println(a);
+        System.out.println(price);
+        System.out.println(n);
+        System.out.println(m+r);
+        
     }
 }

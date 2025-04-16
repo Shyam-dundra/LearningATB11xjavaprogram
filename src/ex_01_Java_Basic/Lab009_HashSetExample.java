@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-import java.util.ArrayList;
+
 import java.util.HashSet;
 
 public class Lab009_HashSetExample {
@@ -38,6 +38,7 @@ public class Lab009_HashSetExample {
         System.out.println("after removing "+ arr);
 
         System.out.println(arr);
+        System.out.println(uniqueNumber);
 
     }
 }

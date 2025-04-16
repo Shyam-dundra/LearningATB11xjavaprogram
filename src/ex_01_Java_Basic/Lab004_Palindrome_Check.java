@@ -11,5 +11,6 @@ public class Lab004_Palindrome_Check {
         String S1 = scanner.nextLine();
         System.out.println();
 
+        scanner.close();
     }
 }
