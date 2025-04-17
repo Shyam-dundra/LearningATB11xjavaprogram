@@ -17,7 +17,9 @@ public class ex_01_Comparator {
         student_list.add(s2);
         student_list.add(s3);
 
-        Collections.sort(student_list, new RollComparator());
+//        Collections.sort(student_list, new RollComparator());
+//        Collections.sort(student_list,new NameComparator());
+//        Collections.sort(student_list,new AgeComparator());
         System.out.println(student_list);
 
     }
