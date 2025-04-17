@@ -6,5 +6,7 @@ public class Lab001_Constants_Literals {
         short b = 12 ;
        short  c = b++; // the value of b ic changed to 13
         System.out.println(b);
+        System.out.println(a);
+        System.out.println(c);
     }
 }

@@ -1,7 +1,6 @@
 package ex_01_Java_Basic;
 
-import java.awt.*;
-import java.lang.reflect.Array;
+
 
 public class Lab010_StringConcat {
     public static void main(String[] args) {

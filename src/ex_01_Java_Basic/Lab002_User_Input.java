@@ -16,6 +16,8 @@ public class Lab002_User_Input {
         System.out.println("Age is  " +age);
         System.out.println("Birth year is " +dob);
 
+        sc.close();
+
     }
 
 }
